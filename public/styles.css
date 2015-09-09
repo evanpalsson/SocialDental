@@ -126,7 +126,29 @@ ul {
 	list-style-type: none;
 }
 
+.one {
+	-webkit-animation-duration: 2s;
+	-webkit-animation-delay: 0s;
+	-webkit-animation-iteration-count: 1;
+}
 
+.two {
+	-webkit-animation-duration: 2s;
+	-webkit-animation-delay: 1s;
+	-webkit-animation-iteration-count: 1;
+}
+
+.three {
+	-webkit-animation-duration: 2s;
+	-webkit-animation-delay: 2s;
+	-webkit-animation-iteration-count: 1;
+}
+
+.four {
+	-webkit-animation-duration: 2s;
+	-webkit-animation-delay: 3s;
+	-webkit-animation-iteration-count: 1;
+}
 
 
 
