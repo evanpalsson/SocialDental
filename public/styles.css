@@ -1,0 +1,134 @@
+.sectionOne {
+	background-color: rgba(63, 73, 154, 1);
+}
+
+.sectionTwo {
+	background-color: rgba(29, 152, 218, 1);
+}
+
+.sectionThree {
+	background-color: rgba(255, 255, 255, 1);
+	border-top: 3px solid rgba(29, 152, 218, 1);
+	border-bottom: 3px solid rgba(29, 152, 218, 1);
+}
+
+.sectionFour {
+	background-color: rgba(63, 73, 154, 1);
+}
+
+.textBox {
+	margin: 5%;
+	max-width: 300px;
+}
+
+.textHead {
+	color: rgba(255, 255, 255, 1);
+	font-size: 20px;
+	text-align: left;
+}
+
+.textBody {
+	color: rgba(255, 255, 255, 1);
+	font-size: 14px;
+	text-align: left;
+}
+
+.btn {
+	background-color: rgba(255, 255, 255, 1);
+	color: rgba(29, 152, 218, 1);
+	font-weight: bold;
+	border: none;
+}
+
+.btn.btn-default:hover {
+	background-color: rgba(29, 152, 218, 1);
+	color: rgba(255, 255, 255, 1);
+}
+
+.btn.btn-success:hover {
+	background-color: rgba(63, 73, 154, 1);
+	color: rgba(255, 255, 255, 1);
+}
+
+.iconBox {
+	margin: 5%;
+	max-width: 300px;
+}
+
+.fa-dot-circle-o {
+	color: rgba(255, 255, 255, 1);
+	font-size: 215px;
+}
+
+.flex-box {
+	display: flex;
+	justify-content: space-around;
+}
+
+.btn-box {
+	display: flex;
+	align-items: flex-end;
+	margin-bottom: 5%;
+}
+
+.textHead2 {
+	font-size: 20px;
+	text-align: left;
+}
+
+.textBody2 {
+	font-size: 14px;
+	text-align: left;
+}
+
+.sectionThree .btn {
+	background-color: rgba(29, 152, 218, 1);
+	color: rgba(255, 255, 255, 1);
+	font-weight: bold;
+	border: none;
+}
+
+.sectionThree .btn:hover {
+	background-color: rgba(63, 73, 154, 1);
+	color: rgba(255, 255, 255, 1);
+}
+
+.sectionThree .btn2 {
+	background-color: rgba(75, 103, 124, 1);
+	color: rgba(255, 255, 255, 1);
+	font-weight: bold;
+	border: none;
+}
+
+.flex-box2 {
+	display: flex;
+	align-items: center;
+}
+
+.flex-wrap {
+	flex-wrap: wrap;
+
+}
+
+.fa-user {
+	color: rgba(29, 152, 218, 1);
+	font-size: 50px;
+	display: flex;
+	justify-content: center;
+}
+
+.thumbnail {
+	border: none;
+	margin: 10%;
+}
+
+ul {
+	list-style-type: none;
+}
+
+
+
+
+
+
+
